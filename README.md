@@ -1,6 +1,6 @@
 ### Project BlazorWasm7IdentityServer4
 
-#### Subjective: To use IdentityServer4 package in Asp Net Core 7 Blazor Wasm project
+#### Subjective: To use IdentityServer4 package in Asp Net Core 7 Blazor Wasm project (SQL Server)
 
 :memo: 
 **login: `admin@admin.com`**<br>
